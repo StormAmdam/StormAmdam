@@ -56,52 +56,6 @@ JavaScript   ██████████░░░░░░░░░░
 
 ---
 
-## `$ philosophy`
-
-> **If I don't know how something works, that's usually a good reason to build it.**
-
-I don't really enjoy making projects just because they're easy.
-
-I like projects that make me think:
-
-```txt
-"Wait... can I actually build this?"
-```
-
-And then I try anyway.
-
----
-
-## `$ featured_projects`
-
-> More projects are coming soon.
-
-### 🤖 AI / Agents
-Experiments with autonomous agents, assistants, local models and AI-powered tools.
-
-### 🌐 Web
-Interfaces, dashboards and apps where I probably spent too much time on the UI.
-
-### 🎮 Games
-Games, prototypes and experiments made because I wanted to see if I could.
-
-### ⚙️ Tools
-Automation scripts and utilities that solve annoyingly specific problems.
-
----
-
-## `$ github`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=StormAmdam&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000" alt="Storm's GitHub stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StormAmdam&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000" alt="Top languages" />
-
-</div>
-
----
-
 <div align="center">
 
 ### `SYSTEM STATUS: BUILDING`
