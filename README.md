@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:brattvollvegenki@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:stormamdam@protonmail.com"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
@@ -37,51 +37,6 @@
 - 🇳🇴 Based in Norway. I build with Norwegian users in mind first, then make everything work in English too.
 - 📚 Currently going deeper on: distributed state, agent orchestration, and type-safe end-to-end schemas.
 - 💬 Ask me about TypeScript, React/Next.js, FastAPI, SQLite, or wrangling AI agents into behaving.
-
----
-
-## 🚀 Featured projects
-
-### 🔁 [Claude Continuity](https://github.com/YOUR_USERNAME/ClaudeContinuity)
-> A local WebUI and durable supervisor for long-running Claude Code jobs.
-
-Streams an agent's work to the browser, persists everything in SQLite, and safely
-resumes the same native session after a usage limit, a browser disconnect, or a
-backend restart. The backend owns the process — closing the tab does nothing.
-
-`TypeScript` · `React` · `Express` · `WebSockets` · `better-sqlite3` · `Vitest`
-
----
-
-### 🧠 [J.A.R.V.I.S.](https://github.com/YOUR_USERNAME/Jarvis)
-> A cinematic, local-first foundation for a personal AI operating system.
-
-A custom React + Three.js HUD wired to a FastAPI core: conversation, persistent
-history, durable memory records, realtime events, and confirmation-gated tools.
-Runs with zero API keys via deterministic fallbacks.
-
-`React` · `Three.js` · `Framer Motion` · `FastAPI` · `Pydantic` · `aiosqlite`
-
----
-
-### 📅 [Skoleplan](https://github.com/YOUR_USERNAME/TheSchool)
-> A school planner that reads whatever the school throws at you.
-
-Feed it a screenshot, a whiteboard photo, a PDF, an `.ics` file, or pasted text —
-it works out what's a test, what's homework, and when it's due, then asks you to
-confirm before anything hits your calendar. **The extractor never invents a date.**
-
-`Next.js` · `Drizzle ORM` · `Postgres/PGlite` · `Anthropic SDK` · `Tesseract.js` · `Playwright`
-
----
-
-### 🔐 [SlotLock](https://github.com/YOUR_USERNAME/Slotlock)
-> Private scheduling and conflict-resolution for shared resources.
-
-Coordinates people and reservations for shared tooling access — no credential
-sharing, no bypassing provider limits. Just clean conflict resolution.
-
-`Next.js` · `PGlite` · `Argon2` · `Zod` · `Playwright` · `axe-core`
 
 ---
 
