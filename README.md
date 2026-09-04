@@ -20,7 +20,6 @@
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:stormamdam@protonmail.com"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <p align="center">
@@ -75,14 +74,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=tokyonight" alt="GitHub streak">
 </p>
-
----
-
-## 🌩️ A little more about the name
-
-Yes, it's my real name — **Storm**. It fits the work: I like building the calm
-system in the middle of the chaos, the thing that stays up, keeps its state, and
-picks up exactly where it left off.
 
 ---
 
